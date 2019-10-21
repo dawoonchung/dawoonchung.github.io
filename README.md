@@ -1,4 +1,2 @@
 # Da-Woon Chung – Creative Technologist
-
-## Website known issues & To do
-* Optimise images for portrait layout
+Please visit [https://dawoonchung.com](https://dawoonchung.com) to access the website.
