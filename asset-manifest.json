@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f18d4bc.chunk.css",
-    "main.js": "/static/js/main.4d41b35e.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.a4421f9d.js",
-    "static/js/2.4f4a3cf0.chunk.js": "/static/js/2.4f4a3cf0.chunk.js",
+    "main.css": "/static/css/main.9c7b7297.chunk.css",
+    "main.js": "/static/js/main.68d20c3b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.068ff63e.js",
+    "static/js/2.dee4b05d.chunk.js": "/static/js/2.dee4b05d.chunk.js",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.4f4a3cf0.chunk.js.LICENSE.txt": "/static/js/2.4f4a3cf0.chunk.js.LICENSE.txt",
+    "static/js/2.dee4b05d.chunk.js.LICENSE.txt": "/static/js/2.dee4b05d.chunk.js.LICENSE.txt",
     "static/media/amount-of-data-lg.1f1ff5be.jpg": "/static/media/amount-of-data-lg.1f1ff5be.jpg",
     "static/media/amount-of-data-lg.da1ab168.webp": "/static/media/amount-of-data-lg.da1ab168.webp",
     "static/media/amount-of-data-md.266e25d2.jpg": "/static/media/amount-of-data-md.266e25d2.jpg",
@@ -490,12 +490,12 @@
     "static/media/we-need-logic-xs.bba1764f.webp": "/static/media/we-need-logic-xs.bba1764f.webp",
     "static/media/we-need-logic.48ef38b7.webp": "/static/media/we-need-logic.48ef38b7.webp",
     "static/media/we-need-logic.ee59f1e8.jpg": "/static/media/we-need-logic.ee59f1e8.jpg",
-    "workbox-dce9cbc5.js": "/workbox-dce9cbc5.js"
+    "workbox-8a532145.js": "/workbox-8a532145.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4421f9d.js",
-    "static/js/2.4f4a3cf0.chunk.js",
-    "static/css/main.4f18d4bc.chunk.css",
-    "static/js/main.4d41b35e.chunk.js"
+    "static/js/runtime-main.068ff63e.js",
+    "static/js/2.dee4b05d.chunk.js",
+    "static/css/main.9c7b7297.chunk.css",
+    "static/js/main.68d20c3b.chunk.js"
   ]
 }
