@@ -1,1 +1,0 @@
-import{m as o}from"./title-dTOqE1Th.js";import{a as m}from"./mobility_study-kUrsAaN-.js";import"./project.module-DQIQv2b8.js";import"./cards-THGiLKah.js";import"./useInitProject-Bl_idHjb.js";o({component:m,page:"work"});
