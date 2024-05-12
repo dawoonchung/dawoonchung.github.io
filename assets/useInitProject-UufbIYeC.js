@@ -1,0 +1,1 @@
+import{k as t,l as r}from"./title-BsRI_rQE.js";function d(o,e){const s=new IntersectionObserver(([{isIntersecting:n}])=>{n?document.body.classList.add("intro"):document.body.classList.remove("intro")},{rootMargin:"-24px 0px 0px 0px"});t(()=>{document.body.classList.add(o),s.observe(e)}),r(()=>{document.body.classList.remove(o),s.disconnect()})}export{d as u};
