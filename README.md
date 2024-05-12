@@ -1,3 +1,3 @@
-# Da-Woon Chung – SWE @ Google DeepMind
+# Da-Woon Chung – Software Engineer @ Google DeepMind
 
-[Deprecated branch] Please visit [https://dawoonchung.com](https://dawoonchung.com) to view the latest website.
+Please visit [https://dawoonchung.com](https://dawoonchung.com) to access the website.
