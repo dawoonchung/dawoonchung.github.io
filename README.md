@@ -1,2 +1,3 @@
-# Da-Woon Chung – UXE @ DeepMind
-Please visit [https://dawoonchung.com](https://dawoonchung.com) to access the website.
+# Da-Woon Chung – SWE @ Google DeepMind
+
+[Deprecated branch] Please visit [https://dawoonchung.com](https://dawoonchung.com) to view the latest website.
