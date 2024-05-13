@@ -1,1 +1,0 @@
-import{m}from"./title-DoNZc9tb.js";import{c as o}from"./visual_intelligence-C50WP5D1.js";import"./project.module-KSZ0p1Xx.js";import"./cards-DzlDntkC.js";import"./gallery-ujMoNZRP.js";m({component:o,page:"work"});
