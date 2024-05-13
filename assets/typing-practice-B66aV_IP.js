@@ -1,0 +1,1 @@
+import{m}from"./title-DoNZc9tb.js";import{a as o}from"./typing_practice-BRB9N9r4.js";import"./project.module-KSZ0p1Xx.js";import"./cards-DzlDntkC.js";import"./gallery-ujMoNZRP.js";import"./useInitProject-BFj9ZGz1.js";m({component:o,page:"work"});
