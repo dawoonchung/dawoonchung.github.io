@@ -1,1 +1,0 @@
-import{m}from"./title-BsRI_rQE.js";import{a as o}from"./typing_practice-D0vF898_.js";import"./project.module-B39pLjSb.js";import"./cards-Bqcm11G7.js";import"./gallery-B-TFnm_S.js";import"./useInitProject-UufbIYeC.js";m({component:o,page:"work"});

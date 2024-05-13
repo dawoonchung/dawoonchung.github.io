@@ -1,1 +1,0 @@
-import{m as i}from"./title-BsRI_rQE.js";import{a as m}from"./azizi_life-eyTas3rR.js";import"./project.module-B39pLjSb.js";import"./cards-Bqcm11G7.js";import"./useInitProject-UufbIYeC.js";i({component:m,page:"work"});
