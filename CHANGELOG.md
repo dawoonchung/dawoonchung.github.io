@@ -1,5 +1,13 @@
 # Change Log
 
+## [v2.0.0-rc.2]
+
+** Minor updates**
+
+- Add SEO and ARIA labels
+- Update highlight colouring
+- Attempt to fix WebGL2 flickering issue on iOS devices
+
 ## [v2.0.0-rc.1]
 
 **Major revamp of the website**

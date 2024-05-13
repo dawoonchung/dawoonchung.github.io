@@ -1,0 +1,1 @@
+import{m}from"./title-BOz_BiuM.js";import{c as o}from"./visual_intelligence-BIh0Asjm.js";import"./project.module-HGl8rx7i.js";import"./cards-B9ytpV5j.js";import"./gallery-C1YbjJtU.js";m({component:o,page:"work"});
