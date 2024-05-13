@@ -2,7 +2,7 @@
 
 ## [v2.0.0-rc.2]
 
-** Minor updates**
+**Minor updates**
 
 - Add SEO and ARIA labels
 - Update highlight colouring
