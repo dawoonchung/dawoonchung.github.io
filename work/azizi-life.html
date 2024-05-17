@@ -6,10 +6,7 @@
     <meta name="theme-color" content="#797979" />
     <meta name="description" content="Azizi Life | Da-Woon Chung" />
     <meta property="og:title" content="Azizi Life | Da-Woon Chung" />
-    <meta
-      property="og:url"
-      content="https://dawoonchung.com/work/azizi-life"
-    />
+    <meta property="og:url" content="https://dawoonchung.com/work/azizi-life" />
     <meta
       property="og:description"
       content="I suggested the client to extend their capabilities by focusing more on their web platform. I advised and helped them on integrating their business with e-commerce, and I collaborated with the team to design and develop it."
@@ -34,50 +31,40 @@
     <title>Azizi Life | Da-Woon Chung</title>
 
     <!-- Typekit -->
-    <script>
-      (function (d) {
-        var config = {
-            kitId: 'xkp7ifb',
-            scriptTimeout: 3000,
-            async: true,
-          },
-          h = d.documentElement,
-          t = setTimeout(function () {
-            h.className =
-              h.className.replace(/\bwf-loading\b/g, '') + ' wf-inactive';
-          }, config.scriptTimeout),
-          tk = d.createElement('script'),
-          f = false,
-          s = d.getElementsByTagName('script')[0],
-          a;
-        h.className += ' wf-loading';
-        tk.src = 'https://use.typekit.net/' + config.kitId + '.js';
-        tk.async = true;
-        tk.onload = tk.onreadystatechange = function () {
-          a = this.readyState;
-          if (f || (a && a != 'complete' && a != 'loaded')) return;
-          f = true;
-          clearTimeout(t);
-          try {
-            Typekit.load(config);
-          } catch (e) {}
-        };
-        s.parentNode.insertBefore(tk, s);
-      })(document);
-    </script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-150214484-1"
+      src="https://use.typekit.net/xkp7ifb.js"
+      id="typekit"
     ></script>
     <script>
+      const tk = document.getElementById('typekit');
+      tk.onload = () => {
+        Typekit.load();
+      };
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-T7P6WRMCXN"
+    ></script>
+    <script>
+      // Define dataLayer and the gtag function.
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
+
       gtag('js', new Date());
-      gtag('config', 'UA-150214484-1');
+      gtag('config', 'G-T7P6WRMCXN');
+
+      // Don't use any cookies. Cookieless pings are sufficient for a personal website.
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+      });
     </script>
     <script type="module" crossorigin src="/assets/azizi-life-ZO93ZK59.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/template-ByEHfdYF.js">
