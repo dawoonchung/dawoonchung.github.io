@@ -1,5 +1,11 @@
 # Change Log
 
+## [v2.0.0]
+
+**Major revamp of the styles**
+
+- Rewrote all the styles from scratch, mainly to remove Bootstrap dependency
+
 ## [v2.0.0-rc.3]
 
 **Workflow updates**
