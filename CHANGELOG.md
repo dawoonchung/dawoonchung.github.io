@@ -1,5 +1,12 @@
 # Change Log
 
+## [v2.1.0]
+
+**Pre-rendered website**
+
+- Full static-site generation using vike-solid plugin
+  - Still experimental with some lacking support such as sitemap generation
+
 ## [v2.0.0]
 
 **Major revamp of the styles**
