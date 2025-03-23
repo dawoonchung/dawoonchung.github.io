@@ -1,1 +1,0 @@
-import{n as t,p as r}from"./chunk-D6__p2XC.js";function d(o,e){const s=new IntersectionObserver(([{isIntersecting:n}])=>{n?document.body.classList.add("intro"):document.body.classList.remove("intro")},{rootMargin:"-24px 0% 0% 0%"});t(()=>{document.body.classList.add(o),s.observe(e)}),r(()=>{document.body.classList.remove(o),s.disconnect()})}export{d as u};

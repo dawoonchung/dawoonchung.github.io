@@ -1,5 +1,11 @@
 # Change Log
 
+## [v2.1.1]
+
+**Minor design tweak**
+
+- Better underline style for links.
+
 ## [v2.1.0]
 
 **Pre-rendered website**
