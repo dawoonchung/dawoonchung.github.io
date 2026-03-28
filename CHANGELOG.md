@@ -1,5 +1,11 @@
 # Change Log
 
+## [v3.0.0]
+
+**Remove Three.js dependency**
+
+- Removed Three.js dependency and use custom WebGL2 implementation
+
 ## [v2.1.1]
 
 **Minor design tweak**

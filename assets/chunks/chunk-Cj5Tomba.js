@@ -1,0 +1,1 @@
+var e=`/assets/static/synaesthesify-bg.CnfUqQQT.svg`;export{e as t};
