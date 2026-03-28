@@ -1,5 +1,16 @@
 # Change Log
 
+## [v3.0.1]
+
+**Visual Intelligence Engine & Performance Optimization**
+
+- Eliminated 11MB `vi-data.json` by using synchronous runtime seeded PRNG generation
+- Added AVIF image variants across the site for massive image size savings (~50%)
+- Migrated Typekit to self-hosted Google Fonts (drastically reducing FOIT/FOUT and third-party JS)
+- Pre-allocated animation buffers to eliminate Garbage Collection pressure in visual engine
+- Added lightweight Service Worker layer for offline/PWA capabilities
+- Fixed various mobile layout bugs (scrolling specificity thresholds)
+
 ## [v3.0.0]
 
 **Remove Three.js dependency**
