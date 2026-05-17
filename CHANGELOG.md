@@ -1,5 +1,14 @@
 # Change Log
 
+## [v3.1.0]
+
+**WebGPU Integration & Architecture Overhaul**
+
+- Migrated 3D rendering to an isolated Web Worker (via `OffscreenCanvas`) to completely decouple the engine from UI components.
+- Introduced a new abstract `IEngine` interface and implemented a high-performance **WebGPU** point cloud rendering engine.
+- Implemented GPU-accelerated vertex interpolation using Transform Feedback (WebGL2) and Compute Shaders (WebGPU) to eliminate CPU-side bottlenecks.
+- Comprehensive codebase refactoring, including strict TypeScript enforcement, ESLint configuration fixes, and detailed TSDoc implementation.
+
 ## [v3.0.1]
 
 **Visual Intelligence Engine & Performance Optimization**

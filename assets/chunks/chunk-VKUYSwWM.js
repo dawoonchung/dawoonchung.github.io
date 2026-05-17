@@ -1,0 +1,1 @@
+import{E as e,T as t}from"./chunk-CJ1xV8aU.js";function n(n,r){let i=new IntersectionObserver(([{isIntersecting:e}])=>{e?document.body.classList.add(`intro`):document.body.classList.remove(`intro`)},{rootMargin:`-24px 0% 0% 0%`});e(()=>{document.body.classList.add(n),i.observe(r)}),t(()=>{document.body.classList.remove(n),i.disconnect()})}export{n as t};
